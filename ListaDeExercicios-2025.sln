@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-01", "exercicio-01\exercicio-01.csproj", "{581B9160-DD74-4F7E-A096-E73F208648EF}"
 EndProject
@@ -20,6 +20,13 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-08", "exercicio-08\exercicio-08.csproj", "{F7A9AE85-860D-41AE-9088-E6C6FCC00A4F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-09", "exercicio-09\exercicio-09.csproj", "{ECBEEE5C-4506-4187-8E9B-423443A73BE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-10", "exercicio-10\exercicio-10.csproj", "{9D7ED558-64FC-40B2-8356-D3EFF74F77BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +70,10 @@ Global
 		{ECBEEE5C-4506-4187-8E9B-423443A73BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBEEE5C-4506-4187-8E9B-423443A73BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBEEE5C-4506-4187-8E9B-423443A73BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7ED558-64FC-40B2-8356-D3EFF74F77BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7ED558-64FC-40B2-8356-D3EFF74F77BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7ED558-64FC-40B2-8356-D3EFF74F77BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7ED558-64FC-40B2-8356-D3EFF74F77BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
